@@ -15,12 +15,10 @@ function App() {
         <form>
           <label htmlFor="email" for = "email">Email: </label>
           <input type="email" name="email" id = "email"></input>
-          <br></br>
-          <br></br>
+          &nbsp;&nbsp;
           <label htmlFor="password" for = "password">Password: </label>
           <input type="password" name="password" id ="password"></input>
-          <br></br>
-          <br></br>
+          &nbsp;&nbsp;
           <button>OK</button>
         </form>
       </div>
